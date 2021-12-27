@@ -1,0 +1,6 @@
+E:\GitHub\Dashboard\Dashboard\Model\bin\Debug\Model.dll
+E:\GitHub\Dashboard\Dashboard\Model\bin\Debug\Model.pdb
+E:\GitHub\Dashboard\Dashboard\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\GitHub\Dashboard\Dashboard\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\GitHub\Dashboard\Dashboard\Model\obj\Debug\Model.dll
+E:\GitHub\Dashboard\Dashboard\Model\obj\Debug\Model.pdb
